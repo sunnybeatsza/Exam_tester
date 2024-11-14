@@ -1,0 +1,124 @@
+Define Information Security and explain its importance in modern organizations.
+Explain the purpose of Information Systems Security and describe how it differs from general Information Security.
+Define the CIA Triad and give an example of a security measure for each component (Confidentiality, Integrity, Availability).
+Define the AAAs of Security (Authentication, Authorization, Accounting) and provide an example of how each is implemented in a secure environment.
+List and define the 4 Security Control Categories. For each category, describe one example control in practice.
+List and define the 6 Security Control Types. Explain why a layered approach, using multiple control types, is beneficial in a cybersecurity strategy.
+Define the Zero Trust Model and discuss how this approach can be applied in cloud computing environments.
+Define a threat and differentiate between intentional and unintentional threats with examples.
+Define a vulnerability and explain how vulnerabilities are typically identified and mitigated.
+Explain why confidentiality is essential in data protection. List 3 reasons and describe how a breach of confidentiality could affect an organization.
+Name and define 3 methods that ensure confidentiality and explain how each method works to protect sensitive information.
+Explain the importance of data integrity in cybersecurity. List 3 reasons and give an example of a situation where integrity could be compromised.
+Identify 3 methods that ensure integrity and discuss how each one helps to maintain accurate, reliable data.
+Explain the importance of availability in IT services. List 3 reasons and describe a situation where availability would be critical.
+List 3 methods that ensure availability and explain how each contributes to maintaining access to essential services.
+Define non-repudiation and explain its role in legal and cybersecurity contexts.
+Describe the importance of non-repudiation in transactions and communication. List 3 reasons, focusing on its impact on accountability and trust.
+Define Authentication in detail and explain the role of multi-factor authentication in strengthening security.
+Identify and define 3 common authentication methods and discuss the strengths and weaknesses of each.
+Define MFA (Multi-Factor Authentication) and 2FA (Two-Factor Authentication) and explain how each reduces security risks.
+Explain why authentication is critical in computer systems. Provide 3 reasons with examples of how authentication failures can lead to security breaches.
+Define authorization and explain its importance. List 3 reasons and describe an example where improper authorization could pose a risk.
+Define accounting in cybersecurity and discuss its role in tracking and analysing user activity.
+Describe the benefits of a robust accounting system in cybersecurity. List 4 advantages and explain how each one supports organizational security.
+List at least 3 technologies used for cybersecurity accounting and explain how each one helps in monitoring and logging user actions.
+Define a gap analysis and explain its purpose in identifying security weaknesses within an organization.
+Outline the key steps in conducting a gap analysis and explain how each step contributes to an improved security posture.
+Define the different types of gap analysis and provide examples of when each type is most applicable.
+What is POA&M (Plan of Action and Milestones), and how is it used in managing cybersecurity compliance?
+Define a threat actor and explain how threat actors differ in terms of goals and resources.
+List at least 5 possible motivations for threat actors and explain how motivation impacts the nature of their attacks.
+Identify types of threat actors, categorizing them by level of sophistication and available resources. Describe how these factors influence the threat they pose.
+Define a threat vector and provide examples of common threat vectors in cyber-attacks.
+Define an attack surface and explain how minimizing it can improve an organization's security.
+List technologies that help mitigate threat actor activities and explain how each technology reduces risk.
+What is Physical Security, and why is it essential for protecting tangible assets?
+Describe the purpose of fencing and bollards in physical security.
+Define a bollard and explain its role in preventing unauthorized vehicle access.
+What are the advantages of using fences in a physical security plan?
+Describe what is meant by a "brute force attack" in the context of physical security. Provide examples.
+List and explain three methods used in brute force attacks against physical security.
+What is the purpose of surveillance systems in physical security?
+Identify the components of an effective surveillance system and their respective roles.
+What is a video surveillance system, and how does it contribute to security?
+Explain the importance of lighting in surveillance and how it can deter criminal activities.
+Define access control vestibules and explain how they prevent piggybacking and tailgating.
+What are the differences between piggybacking and tailgating in a secure access environment?
+List and describe the various types of door locks used in physical security.
+Explain how biometric locks work and discuss their strengths and weaknesses in security.
+What is the False Acceptance Rate (FAR) and False Rejection Rate (FRR) in the context of biometric security? Why are these metrics important?
+Define access badges and explain how RFID and NFC technologies are used in these badges.
+Describe the process of access badge cloning and the potential risks it poses to an organization.
+List four methods to prevent access badge cloning and describe how each method enhances security.
+What role do sensors play in physical security? List the four types of sensors commonly used.
+Explain how infrared sensors work and describe a scenario where they would be effectively used.
+Describe how pressure sensors function and give an example of where they are best used.
+What are microwave sensors, and how do they detect movement?
+Define ultrasonic sensors and explain their application in physical security.
+What are common methods attackers use to bypass surveillance systems?
+How do attackers use visual obstruction to bypass camera surveillance?
+Explain the tactic of "blinding" sensors and cameras, and how organizations can mitigate this threat.
+Describe the importance of security guards in a physical security strategy.
+What are the advantages of using electronic access control systems over traditional padlocks?
+Explain how electromagnetic interference (EMI) can be used by attackers to disrupt surveillance systems.
+Discuss how proper training in conflict resolution and self-defence benefits security personnel.
+What is social engineering?
+List four motivational triggers commonly used in social engineering.
+Name two common social engineering techniques.
+What is the difference between phishing and spear phishing?
+Define 'whaling' in the context of phishing.
+Which phishing type uses SMS to trick individuals into providing personal information?
+What is the key difference between identity fraud and identity theft?
+What is an invoice scam?
+Differentiate between misinformation and disinformation.
+Why are influence campaigns potentially harmful?
+What is 'dumpster diving' in social engineering?
+How does 'baiting' work in a cyber-attack?
+Explain the difference between 'piggybacking' and 'tailgating.'
+Name two techniques to prevent social engineering attacks.
+How can organizations mitigate phishing attacks?
+What is malware?
+List three categories of malware.
+What is the difference between a Threat Vector and an Attack Vector?
+How does a virus spread?
+What are worms, and how do they differ from viruses?
+What is a Trojan, and how does it operate?
+Describe ransomware and its primary function.
+What is a botnet, and how are zombies related to it?
+What is a rootkit, and what level of control does it aim to gain on a computer system?
+What is DLL injection?
+What is a backdoor, and how is it similar to a Remote Access Trojan (RAT)?
+What is a logic bomb?
+How do software and hardware keyloggers differ?
+Define spyware and explain how it typically infiltrates a system.
+What is bloatware, and why is it not considered malicious?
+What is fileless malware, and how does it avoid detection?
+What is a stage one dropper?
+Define the "Actions on Objectives" phase in a malware attack.
+What is the purpose of malware concealment techniques?
+List four common indicators of a malware attack.
+What does "Impossible Travel" mean in the context of malware attack indicators?
+What might cause unusual spikes in CPU, memory, or network bandwidth utilization?
+What is the significance of missing logs in detecting a malware attack?
+What is the primary objective of data protection, and why is it important?
+List and describe the different data classifications commonly used in information security.
+Explain the roles of Data Owners, Data Controllers, and Data Processors in data protection. How do these roles differ?
+Define the three states of data and give an example of each state.
+Describe at least three methods used to protect data at rest.
+What is data sovereignty, and why is it significant in a globalized world?
+How does data classification help an organization in terms of security resource allocation?
+What are some of the legal requirements associated with data classification and data protection?
+Explain the concept of Data Loss Prevention (DLP) and the different types of DLP systems.
+What is the role of a Privacy Officer within data protection, and which types of data are they primarily concerned with?
+Describe the importance of encryption and hashing in data protection. How do they differ in function?
+What is tokenization, and in which scenarios is it commonly used?
+Explain the purpose of segmentation in network security. How does it contribute to data protection?
+How does obfuscation help protect data, and what are some techniques used to achieve it?
+Discuss the difference between regulated data and intellectual property. Provide an example of each.
+Why is it important for data custodians and data stewards to work under the guidance of a data owner?
+Describe the differences between endpoint, network, storage, and cloud-based DLP systems.
+How does data masking differ from tokenization, and when would each be used?
+Explain the significance of permission restrictions in data protection. What methods are used to enforce them?
+What are some of the challenges associated with data sovereignty and compliance for multinational companies? 
+
